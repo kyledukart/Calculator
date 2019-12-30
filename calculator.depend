@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1543095316 source:c:\users\kyle\desktop\codeblocks\calculator\main.cpp
+	<iostream>
+	"evaluator.h"
+
+1543354080 c:\users\kyle\desktop\codeblocks\calculator\evaluator.h
+	<math.h>
+	<sstream>
+	<vector>
+	"tokenizer.h"
+	"evaluator.cpp.h"
+
+1543298690 c:\users\kyle\desktop\codeblocks\calculator\tokenizer.h
+	<iostream>
+	"token.h"
+	"tokenizer.cpp.h"
+
+1543349970 c:\users\kyle\desktop\codeblocks\calculator\token.h
+
+1543349926 c:\users\kyle\desktop\codeblocks\calculator\tokenizer.cpp.h
+
+1543354119 c:\users\kyle\desktop\codeblocks\calculator\evaluator.cpp.h
+
